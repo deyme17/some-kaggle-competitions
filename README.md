@@ -1,10 +1,10 @@
-# MyKaggleCompetition 🏆
+# SomeKaggleCompetition
 
 My early End-to-end pipelines for Kaggle competitions – from raw data exploration to reproducible training and submission generation.
 
 ---
 
-## 📌 Scope
+##  Scope
 
 Each competition directory includes:
 
